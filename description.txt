@@ -1,0 +1,10 @@
+1. parking, people come in, each car 1-5 people,
+limited parking space.
+ People go into the mall stay for time t, then leave and free up parking.
+
+2. People go to one of 3 parts of the mall,
+ each part with a certain probability.
+
+3. in shopping and dining areas people stay for service time t,
+and occupy space. In dining areas after being servise they either leave if
+it is takeaway, or stay for eating time te and occupy dinings space which is limited.  
